@@ -11,9 +11,9 @@ const RSideNav = () => {
                 PraveshMitra, an Online Chatbot, is here tohelp you with for Ticket Booking and other queries.
             </div>
             <div className='flex basis-1/3 items-center justify-center'>
-                <Link href='/PraveshMitra' className='bg-slate-500 text-white p-2 rounded-md hover:bg-slate-400 transition-all font-bold'>
+                <a href='https://praveshmitra.onrender.com/' className='bg-slate-500 text-white p-2 rounded-md hover:bg-slate-400 transition-all font-bold'>
                     Chat Now
-                </Link>
+                </a>
             </div>
         </div>
     );

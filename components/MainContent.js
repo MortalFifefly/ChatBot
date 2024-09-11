@@ -17,9 +17,9 @@ const MainContent = () => {
                 The Indian Museum in Kolkata, established in 1814, stands as a monumental institution in India's cultural and historical landscape. As one of the oldest and largest museums in the country, it boasts an extensive array of exhibits across various domains, including archaeology, art, natural history, and ethnography. Visitors can explore remarkable artifacts such as the Ashoka Pillar, ancient relics from the Indus Valley Civilization, and an impressive collection of Egyptian mummies. The museum's grand colonial-era building itself is a testament to architectural elegance, housing a vast repository of India's rich heritage. Serving both as a center for research and a public educational hub, the Indian Museum offers a captivating journey through time and culture, reflecting the depth and diversity of India's historical legacy.
             </div>
             <div className='flex items-center justify-center w-full'>
-                <Link href='/PraveshMitra' className=' flex items-center justify-center bg-slate-500 text-white p-2 rounded-md hover:bg-slate-400 transition-all font-bold h-20 w-72 text-xl'>
+                <a href='https://praveshmitra.onrender.com/' className=' flex items-center justify-center bg-slate-500 text-white p-2 rounded-md hover:bg-slate-400 transition-all font-bold h-20 w-72 text-xl'>
                     Book Tickets
-                </Link>
+                </a>
             </div>
         </div>
     );
