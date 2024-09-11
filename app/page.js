@@ -1,6 +1,6 @@
 import React from 'react';
-import Header from '/Components/Header.js';
-import Body from '/Components/Body.js';
+import Header from '/components/Header.js';
+import Body from '/components/Body.js';
 function Page() {
   return (
     <div className='flex flex-col w-full h-full'>
